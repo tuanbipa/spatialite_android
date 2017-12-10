@@ -1,0 +1,668 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="adf88c11-753f-430d-bc43-01898f531512" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spatialite-android/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/images/device-2012-03-12-210327.png" afterPath="$PROJECT_DIR$/spatialite-android/images/device-2012-03-12-210327.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/src/jsqlite/Authorizer.class" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/src/jsqlite/Authorizer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/src/jsqlite/Backup.class" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/src/jsqlite/Backup.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/src/jsqlite/Benchmark.class" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/src/jsqlite/Benchmark.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/src/jsqlite/BenchmarkThread.class" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/src/jsqlite/BenchmarkThread.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/src/jsqlite/Blob.class" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/src/jsqlite/Blob.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/src/jsqlite/BlobR.class" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/src/jsqlite/BlobR.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/src/jsqlite/BlobW.class" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/src/jsqlite/BlobW.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/src/jsqlite/BusyHandler.class" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/src/jsqlite/BusyHandler.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/src/jsqlite/Callback.class" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/src/jsqlite/Callback.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/src/jsqlite/Exception.class" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/src/jsqlite/Exception.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-test/res/drawable-hdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-test/res/drawable-hdpi/ic_launcher.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-test/res/drawable-ldpi/ic_launcher.png" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-test/res/drawable-ldpi/ic_launcher.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-test/res/drawable-mdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-test/res/drawable-mdpi/ic_launcher.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android/assets/test-2.3.sqlite" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android/assets/test-2.3.sqlite" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android/res/drawable-hdpi/icon.png" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android/res/drawable-hdpi/icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android/res/drawable-ldpi/icon.png" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android/res/drawable-ldpi/icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android/res/drawable-mdpi/icon.png" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android/res/drawable-mdpi/icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/.classpath" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/.classpath" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/.cproject" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/.cproject" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/.project" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/.project" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/AndroidManifest.xml" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/Android.mk" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/Android.mk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/Application.mk" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/Application.mk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/geos.mk" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/geos.mk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/iconv.mk" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/iconv.mk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/javasqlite-20120209/META-INF/services/java.sql.Driver" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/javasqlite-20120209/META-INF/services/java.sql.Driver" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/javasqlite-20120209/native/empty.cpp" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/javasqlite-20120209/native/empty.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/javasqlite-20120209/native/sqlite_jni.c" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/javasqlite-20120209/native/sqlite_jni.c" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/javasqlite-20120209/native/sqlite_jni.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/javasqlite-20120209/native/sqlite_jni.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/javasqlite-20120209/readme.txt" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/javasqlite-20120209/readme.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/jsqlite.mk" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/jsqlite.mk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/include/export.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/include/export.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/include/iconv.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/include/iconv.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/include/iconv.h.build.in" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/include/iconv.h.build.in" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/include/iconv.h.in" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/include/iconv.h.in" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/include/iconv.h.inst" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/include/iconv.h.inst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/Makefile" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/Makefile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/Makefile.in" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/Makefile.in" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/aliases.gperf" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/aliases.gperf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/aliases.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/aliases.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/aliases2.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/aliases2.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/aliases_aix.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/aliases_aix.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/aliases_aix_sysaix.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/aliases_aix_sysaix.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/aliases_dos.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/aliases_dos.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/aliases_extra.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/aliases_extra.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/aliases_osf1.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/aliases_osf1.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/aliases_osf1_sysosf1.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/aliases_osf1_sysosf1.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/aliases_sysaix.gperf" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/aliases_sysaix.gperf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/aliases_sysaix.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/aliases_sysaix.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/aliases_syshpux.gperf" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/aliases_syshpux.gperf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/aliases_syshpux.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/aliases_syshpux.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/aliases_sysosf1.gperf" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/aliases_sysosf1.gperf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/aliases_sysosf1.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/aliases_sysosf1.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/aliases_syssolaris.gperf" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/aliases_syssolaris.gperf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/aliases_syssolaris.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/aliases_syssolaris.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/armscii_8.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/armscii_8.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/ascii.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/ascii.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/atarist.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/atarist.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/big5.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/big5.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/big5_2003.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/big5_2003.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/big5hkscs1999.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/big5hkscs1999.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/big5hkscs2001.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/big5hkscs2001.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/big5hkscs2004.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/big5hkscs2004.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/c99.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/c99.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/canonical.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/canonical.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/canonical_aix.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/canonical_aix.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/canonical_aix_sysaix.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/canonical_aix_sysaix.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/canonical_dos.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/canonical_dos.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/canonical_extra.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/canonical_extra.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/canonical_local.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/canonical_local.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/canonical_local_sysaix.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/canonical_local_sysaix.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/canonical_local_syshpux.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/canonical_local_syshpux.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/canonical_local_sysosf1.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/canonical_local_sysosf1.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/canonical_local_syssolaris.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/canonical_local_syssolaris.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/canonical_osf1.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/canonical_osf1.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/canonical_osf1_sysosf1.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/canonical_osf1_sysosf1.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/canonical_sysaix.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/canonical_sysaix.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/canonical_syshpux.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/canonical_syshpux.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/canonical_sysosf1.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/canonical_sysosf1.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/canonical_syssolaris.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/canonical_syssolaris.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/ces_big5.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/ces_big5.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/ces_gbk.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/ces_gbk.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/cjk_variants.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/cjk_variants.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/cns11643.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/cns11643.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/cns11643_1.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/cns11643_1.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/cns11643_15.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/cns11643_15.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/cns11643_2.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/cns11643_2.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/cns11643_3.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/cns11643_3.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/cns11643_4.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/cns11643_4.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/cns11643_4a.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/cns11643_4a.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/cns11643_4b.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/cns11643_4b.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/cns11643_5.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/cns11643_5.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/cns11643_6.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/cns11643_6.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/cns11643_7.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/cns11643_7.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/cns11643_inv.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/cns11643_inv.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/config.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/config.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/config.h.in" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/config.h.in" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/converters.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/converters.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/cp1046.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/cp1046.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/cp1124.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/cp1124.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/cp1125.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/cp1125.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/cp1129.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/cp1129.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/cp1131.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/cp1131.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/cp1133.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/cp1133.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/cp1161.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/cp1161.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/cp1162.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/cp1162.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/cp1163.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/cp1163.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/cp1250.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/cp1250.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/cp1251.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/cp1251.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/cp1252.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/cp1252.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/cp1253.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/cp1253.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/cp1254.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/cp1254.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/cp1255.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/cp1255.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/cp1256.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/cp1256.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/cp1257.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/cp1257.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/cp1258.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/cp1258.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/cp437.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/cp437.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/cp737.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/cp737.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/cp775.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/cp775.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/cp850.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/cp850.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/cp852.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/cp852.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/cp853.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/cp853.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/cp855.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/cp855.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/cp856.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/cp856.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/cp857.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/cp857.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/cp858.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/cp858.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/cp860.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/cp860.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/cp861.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/cp861.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/cp862.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/cp862.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/cp863.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/cp863.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/cp864.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/cp864.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/cp865.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/cp865.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/cp866.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/cp866.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/cp869.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/cp869.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/cp874.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/cp874.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/cp922.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/cp922.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/cp932.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/cp932.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/cp932ext.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/cp932ext.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/cp936.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/cp936.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/cp936ext.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/cp936ext.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/cp943.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/cp943.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/cp949.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/cp949.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/cp950.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/cp950.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/cp950ext.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/cp950ext.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/dec_hanyu.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/dec_hanyu.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/dec_kanji.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/dec_kanji.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/empty.cpp" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/empty.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/encodings.def" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/encodings.def" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/encodings_aix.def" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/encodings_aix.def" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/encodings_dos.def" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/encodings_dos.def" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/encodings_extra.def" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/encodings_extra.def" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/encodings_local.def" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/encodings_local.def" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/encodings_osf1.def" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/encodings_osf1.def" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/euc_cn.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/euc_cn.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/euc_jisx0213.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/euc_jisx0213.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/euc_jp.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/euc_jp.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/euc_kr.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/euc_kr.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/euc_tw.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/euc_tw.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/flags.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/flags.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/flushwc.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/flushwc.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/gb12345.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/gb12345.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/gb12345ext.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/gb12345ext.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/gb18030.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/gb18030.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/gb18030ext.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/gb18030ext.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/gb18030uni.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/gb18030uni.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/gb2312.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/gb2312.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/gbk.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/gbk.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/gbkext1.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/gbkext1.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/gbkext2.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/gbkext2.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/gbkext_inv.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/gbkext_inv.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/genaliases.c" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/genaliases.c" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/genaliases2.c" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/genaliases2.c" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/genflags.c" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/genflags.c" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/gentranslit.c" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/gentranslit.c" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/georgian_academy.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/georgian_academy.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/georgian_ps.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/georgian_ps.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/hkscs1999.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/hkscs1999.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/hkscs2001.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/hkscs2001.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/hkscs2004.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/hkscs2004.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/hp_roman8.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/hp_roman8.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/hz.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/hz.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/iconv.c" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/iconv.c" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/iconv_open1.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/iconv_open1.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/iconv_open2.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/iconv_open2.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/iso2022_cn.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/iso2022_cn.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/iso2022_cnext.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/iso2022_cnext.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/iso2022_jp.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/iso2022_jp.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/iso2022_jp1.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/iso2022_jp1.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/iso2022_jp2.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/iso2022_jp2.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/iso2022_jp3.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/iso2022_jp3.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/iso2022_kr.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/iso2022_kr.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/iso646_cn.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/iso646_cn.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/iso646_jp.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/iso646_jp.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/iso8859_1.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/iso8859_1.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/iso8859_10.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/iso8859_10.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/iso8859_11.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/iso8859_11.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/iso8859_13.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/iso8859_13.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/iso8859_14.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/iso8859_14.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/iso8859_15.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/iso8859_15.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/iso8859_16.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/iso8859_16.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/iso8859_2.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/iso8859_2.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/iso8859_3.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/iso8859_3.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/iso8859_4.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/iso8859_4.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/iso8859_5.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/iso8859_5.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/iso8859_6.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/iso8859_6.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/iso8859_7.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/iso8859_7.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/iso8859_8.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/iso8859_8.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/iso8859_9.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/iso8859_9.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/isoir165.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/isoir165.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/isoir165ext.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/isoir165ext.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/java.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/java.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/jisx0201.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/jisx0201.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/jisx0208.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/jisx0208.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/jisx0212.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/jisx0212.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/jisx0213.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/jisx0213.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/johab.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/johab.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/johab_hangul.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/johab_hangul.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/koi8_r.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/koi8_r.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/koi8_ru.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/koi8_ru.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/koi8_t.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/koi8_t.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/koi8_u.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/koi8_u.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/ksc5601.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/ksc5601.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/loop_unicode.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/loop_unicode.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/loop_wchar.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/loop_wchar.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/loops.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/loops.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/mac_arabic.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/mac_arabic.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/mac_centraleurope.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/mac_centraleurope.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/mac_croatian.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/mac_croatian.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/mac_cyrillic.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/mac_cyrillic.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/mac_greek.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/mac_greek.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/mac_hebrew.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/mac_hebrew.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/mac_iceland.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/mac_iceland.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/mac_roman.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/mac_roman.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/mac_romania.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/mac_romania.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/mac_thai.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/mac_thai.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/mac_turkish.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/mac_turkish.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/mac_ukraine.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/mac_ukraine.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/mulelao.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/mulelao.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/nextstep.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/nextstep.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/pt154.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/pt154.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/relocatable.c" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/relocatable.c" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/relocatable.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/relocatable.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/riscos1.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/riscos1.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/rk1048.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/rk1048.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/shift_jisx0213.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/shift_jisx0213.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/sjis.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/sjis.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/stamp-h2" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/stamp-h2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/tcvn.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/tcvn.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/tds565.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/tds565.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/tis620.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/tis620.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/translit.def" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/translit.def" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/translit.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/translit.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/ucs2.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/ucs2.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/ucs2be.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/ucs2be.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/ucs2internal.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/ucs2internal.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/ucs2le.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/ucs2le.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/ucs2swapped.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/ucs2swapped.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/ucs4.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/ucs4.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/ucs4be.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/ucs4be.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/ucs4internal.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/ucs4internal.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/ucs4le.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/ucs4le.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/ucs4swapped.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/ucs4swapped.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/uhc_1.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/uhc_1.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/uhc_2.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/uhc_2.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/utf16.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/utf16.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/utf16be.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/utf16be.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/utf16le.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/utf16le.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/utf32.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/utf32.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/utf32be.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/utf32be.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/utf32le.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/utf32le.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/utf7.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/utf7.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/utf8.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/utf8.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/vietcomb.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/vietcomb.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/viscii.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/lib/viscii.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/libcharset/config.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/libcharset/config.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/libcharset/include/export.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/libcharset/include/export.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/libcharset/include/libcharset.h.in" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/libcharset/include/libcharset.h.in" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/libcharset/include/localcharset.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/libcharset/include/localcharset.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/libcharset/include/localcharset.h.build.in" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/libcharset/include/localcharset.h.build.in" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/libcharset/include/localcharset.h.in" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/libcharset/include/localcharset.h.in" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/libcharset/include/localcharset.h.inst" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/libcharset/include/localcharset.h.inst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/libcharset/lib/localcharset.c" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/libcharset/lib/localcharset.c" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/libcharset/lib/ref-add.sin" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/libcharset/lib/ref-add.sin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/libcharset/lib/ref-del.sin" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/libcharset/lib/ref-del.sin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/libcharset/lib/relocatable.c" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/libcharset/lib/relocatable.c" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/libcharset/lib/relocatable.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libiconv-1.13.1/libcharset/lib/relocatable.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libspatialite-amalgamation-3.0.1/empty.cpp" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libspatialite-amalgamation-3.0.1/empty.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libspatialite-amalgamation-3.0.1/headers/spatialite.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libspatialite-amalgamation-3.0.1/headers/spatialite.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libspatialite-amalgamation-3.0.1/headers/spatialite/gaiaaux.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libspatialite-amalgamation-3.0.1/headers/spatialite/gaiaaux.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libspatialite-amalgamation-3.0.1/headers/spatialite/gaiaexif.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libspatialite-amalgamation-3.0.1/headers/spatialite/gaiaexif.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libspatialite-amalgamation-3.0.1/headers/spatialite/gaiageo.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libspatialite-amalgamation-3.0.1/headers/spatialite/gaiageo.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libspatialite-amalgamation-3.0.1/headers/spatialite/gg_advanced.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libspatialite-amalgamation-3.0.1/headers/spatialite/gg_advanced.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libspatialite-amalgamation-3.0.1/headers/spatialite/gg_const.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libspatialite-amalgamation-3.0.1/headers/spatialite/gg_const.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libspatialite-amalgamation-3.0.1/headers/spatialite/gg_core.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libspatialite-amalgamation-3.0.1/headers/spatialite/gg_core.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libspatialite-amalgamation-3.0.1/headers/spatialite/gg_dynamic.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libspatialite-amalgamation-3.0.1/headers/spatialite/gg_dynamic.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libspatialite-amalgamation-3.0.1/headers/spatialite/gg_formats.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libspatialite-amalgamation-3.0.1/headers/spatialite/gg_formats.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libspatialite-amalgamation-3.0.1/headers/spatialite/gg_mbr.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libspatialite-amalgamation-3.0.1/headers/spatialite/gg_mbr.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libspatialite-amalgamation-3.0.1/headers/spatialite/gg_structs.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libspatialite-amalgamation-3.0.1/headers/spatialite/gg_structs.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libspatialite-amalgamation-3.0.1/headers/spatialite/spatialite.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libspatialite-amalgamation-3.0.1/headers/spatialite/spatialite.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libspatialite-amalgamation-3.0.1/headers/spatialite/sqlite3.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libspatialite-amalgamation-3.0.1/headers/spatialite/sqlite3.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libspatialite-amalgamation-3.0.1/headers/spatialite/sqlite3ext.h" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libspatialite-amalgamation-3.0.1/headers/spatialite/sqlite3ext.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libspatialite-amalgamation-3.0.1/spatialite.c" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libspatialite-amalgamation-3.0.1/spatialite.c" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libspatialite-amalgamation-3.0.1/sqlite3.c" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/libspatialite-amalgamation-3.0.1/sqlite3.c" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/proj4.mk" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/proj4.mk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/spatialite.mk" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/spatialite.mk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/project.properties" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/project.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/src/jsqlite/Authorizer.java" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/src/jsqlite/Authorizer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/src/jsqlite/Backup.java" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/src/jsqlite/Backup.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/src/jsqlite/Benchmark.java" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/src/jsqlite/Benchmark.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/src/jsqlite/Blob.java" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/src/jsqlite/Blob.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/src/jsqlite/BusyHandler.java" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/src/jsqlite/BusyHandler.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/src/jsqlite/Callback.java" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/src/jsqlite/Callback.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/src/jsqlite/Constants.java" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/src/jsqlite/Constants.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/src/jsqlite/Database.java" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/src/jsqlite/Database.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/src/jsqlite/Exception.java" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/src/jsqlite/Exception.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/src/jsqlite/Function.java" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/src/jsqlite/Function.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/src/jsqlite/FunctionContext.java" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/src/jsqlite/FunctionContext.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/src/jsqlite/Profile.java" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/src/jsqlite/Profile.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/src/jsqlite/ProgressHandler.java" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/src/jsqlite/ProgressHandler.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/src/jsqlite/SQLDump.java" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/src/jsqlite/SQLDump.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/src/jsqlite/SQLRestore.java" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/src/jsqlite/SQLRestore.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/src/jsqlite/Shell.java" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/src/jsqlite/Shell.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/src/jsqlite/Stmt.java" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/src/jsqlite/Stmt.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/src/jsqlite/StringEncoder.java" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/src/jsqlite/StringEncoder.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/src/jsqlite/TableResult.java" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/src/jsqlite/TableResult.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/src/jsqlite/Trace.java" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/src/jsqlite/Trace.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/src/jsqlite/Vm.java" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-library/src/jsqlite/Vm.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-test/.classpath" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-test/.classpath" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-test/.project" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-test/.project" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-test/AndroidManifest.xml" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-test/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-test/proguard.cfg" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-test/proguard.cfg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-test/project.properties" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-test/project.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-test/res/layout/main.xml" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-test/res/layout/main.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-test/res/values/strings.xml" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-test/res/values/strings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-test/src/com/spatialite/test/spatialite/DatabaseVersionTest.java" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-test/src/com/spatialite/test/spatialite/DatabaseVersionTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-test/src/com/spatialite/test/spatialite/GeoFunctionTest.java" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-test/src/com/spatialite/test/spatialite/GeoFunctionTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-test/src/com/spatialite/test/spatialite/PerformanceTest.java" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-test/src/com/spatialite/test/spatialite/PerformanceTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-test/src/com/spatialite/test/spatialite/RTreeTest.java" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-test/src/com/spatialite/test/spatialite/RTreeTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-test/src/com/spatialite/test/spatialite/RTreeTest2.java" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-test/src/com/spatialite/test/spatialite/RTreeTest2.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-test/src/com/spatialite/test/sqlite/DatabaseGeneralTest.java" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-test/src/com/spatialite/test/sqlite/DatabaseGeneralTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android-test/src/com/spatialite/test/utilities/DatabaseTestCase.java" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android-test/src/com/spatialite/test/utilities/DatabaseTestCase.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android/.classpath" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android/.classpath" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android/.project" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android/.project" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android/AndroidManifest.xml" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android/lint.xml" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android/lint.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android/proguard.cfg" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android/proguard.cfg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android/project.properties" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android/project.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android/res/layout/main.xml" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android/res/layout/main.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android/res/layout/map.xml" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android/res/layout/map.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android/res/layout/tablelist.xml" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android/res/layout/tablelist.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android/res/layout/tablelist_row.xml" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android/res/layout/tablelist_row.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android/res/layout/test.xml" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android/res/layout/test.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android/res/values/strings.xml" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android/res/values/strings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android/src/com/spatialite/activities/MainActivity.java" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android/src/com/spatialite/activities/MainActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android/src/com/spatialite/activities/MapSelectionOverlay.java" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android/src/com/spatialite/activities/MapSelectionOverlay.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android/src/com/spatialite/activities/MappingActivity.java" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android/src/com/spatialite/activities/MappingActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android/src/com/spatialite/activities/TableListActivity.java" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android/src/com/spatialite/activities/TableListActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android/src/com/spatialite/activities/TestActivity.java" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android/src/com/spatialite/activities/TestActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android/src/com/spatialite/utilities/ActivityHelper.java" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android/src/com/spatialite/utilities/ActivityHelper.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spatialite-android/spatialite-android/src/com/spatialite/utilities/AssetHelper.java" afterPath="$PROJECT_DIR$/spatialite-android/spatialite-android/src/com/spatialite/utilities/AssetHelper.java" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="proj4.mk" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/proj4.mk">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="spatialite.mk" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/spatialite.mk">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/spatialite-android" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="22" />
+    <option name="width" value="1280" />
+    <option name="height" value="739" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="Scope" currentSubView="Project Files" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="spatialite-for-android">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="spatialite-for-android">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="spatialite-android">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="spatialite-for-android">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="spatialite-android">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="spatialite-android-library">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="spatialite-for-android">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="spatialite-android">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="spatialite-android-library">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="jni">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="options.lastSelected" value="com.genymobile.genymotion.ide.idea.GdmSettings" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="settings.editor.selected.configurable" value="android.sdk-updates" />
+    <property name="android.project.structure.last.selected" value="SDK Location" />
+    <property name="android.project.structure.proportion" value="0.15" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="Applet" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="JUnit" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="adf88c11-753f-430d-bc43-01898f531512" name="Default" comment="" />
+      <created>1512926329123</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1512926329123</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="22" width="1280" height="739" extended-state="1" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2494043" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/proj4.mk">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spatialite-android/spatialite-android-library/jni/spatialite.mk">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
